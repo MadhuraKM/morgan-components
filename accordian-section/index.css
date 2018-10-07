@@ -1,0 +1,44 @@
+.accordion {
+  border: none;
+  box-shadow: 3px 3px 3px 0 rgba(181, 191, 201, 0.17);
+}
+.accordion__title {
+  background-color: #fff;
+  cursor: pointer;
+  padding: 12px 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  border-radius: 6px 6px 0px 0px;
+  border-bottom: 2px solid #e4e4e4;
+  color: #232425;
+  font-family: Gotham;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.accordion__title:hover {
+  background-color: #fff;
+}
+
+.accordion__title:focus {
+  outline: none;
+}
+
+.accordion__body {
+  background-color: #fff;
+  border-radius: 0px 0px 6px 6px;
+}
+
+.accordion__arrow::after,
+.accordion__arrow::before {
+  width: 7px;
+  height: 2px;
+  color: #2c62ba;
+}
+
+.accordion__arrow {
+  width: 20px;
+  height: 12px;
+}
