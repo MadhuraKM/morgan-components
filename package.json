@@ -17,11 +17,6 @@
   },
   "homepage": "https://github.com/MadhuraKM/morgan-components#readme",
   "dependencies": {
-    "babel": "^6.23.0",
-    "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
-    "babel-loader": "^8.0.4",
-    "react": "^16.5.2",
     "react-accessible-accordion": "^2.4.4"
   }
 }
