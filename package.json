@@ -1,0 +1,19 @@
+{
+  "name": "morgan-components",
+  "version": "1.0.0",
+  "description": "morgan components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhuraKM/morgan-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhuraKM/morgan-components/issues"
+  },
+  "homepage": "https://github.com/MadhuraKM/morgan-components#readme"
+}
